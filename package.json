@@ -1,5 +1,5 @@
 {
-  "name": "Phoenix",
+  "name": "E-Shop",
   "version": "1.0.0",
   "description": "",
   "main": "routes.js",
@@ -33,6 +33,7 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
     "mysql2": "^2.2.5",
+    "node-fetch": "^2.6.1",
     "nodemailer": "^6.4.17",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "pdfkit": "^0.11.0",

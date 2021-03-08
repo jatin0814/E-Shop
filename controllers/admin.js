@@ -26,7 +26,7 @@ exports.postAddProduct = (req,res,next)=>{
         editing:false,
         isAuthenticated: req.session.isLoggedIn
     })
-    }
+    } 
     const imageUrl = image.path;
     console.log(imageUrl)
     const product = new Products({
